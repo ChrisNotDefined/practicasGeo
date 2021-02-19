@@ -1,0 +1,2 @@
+# practicasGeo
+Prueba de GitHubPages
